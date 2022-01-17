@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+body {
+    background-color: black;
+}
+
+.adjust-th{
+    background-color: #0060ff;
+}
+
+.adjust-table{
+    margin: 50px auto;
+}
+
+.adjust-div-select{
+    margin-top: 20px;
+    margin-bottom: -30px;
+    margin-left: 30px;
+}
+
+.adjust-select{
+    background-color: #0060ff;
+    border-radius: 3px;
+    border: none;
+    color: white;
+}
+
+.adjust-text{
+    display: flex;
+    margin-left: 600px;
+    margin-bottom: -30px;
+    padding-top: 10px;
+}
+
+.adjust-text-1{
+    margin-right: 50px;
+    color: rgb(14, 240, 89);
+    white-space: nowrap;
+}
+
+.adjust-text-2{
+    color: rgb(228, 15, 15);
+    white-space: nowrap;
+}
+
+.adjust-text-3{
+    margin-left: 50px;
+    color: #0060ff;
+    white-space: nowrap;
+}
