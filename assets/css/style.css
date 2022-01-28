@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-body {
+body{
     background-color: black;
 }
 
@@ -23,6 +23,7 @@ body {
     border-radius: 3px;
     border: none;
     color: white;
+    height: 30px;
 }
 
 .adjust-text{
